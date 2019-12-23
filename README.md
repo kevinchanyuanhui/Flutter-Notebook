@@ -1,7 +1,7 @@
 ### [中文版](https://github.com/OpenFlutter/Flutter-Notebook/blob/master/README.md) | [English](https://github.com/OpenFlutter/Flutter-Notebook/blob/master/readme_english.md)
 ![](./image/logo.png)
 ## flutter_notebook有什么
-flutetr_note_book有许多flutter相关功能demo的集合，它能够帮助您快速学习一些零碎的知识，本项目将会不定期更新。
+flutter_note_book有许多flutter相关功能demo的集合，它能够帮助您快速学习一些零碎的知识，本项目将会不定期更新。
 
 如果您觉得有用的话可以Watch该项目，之后更新会自动通知您。
 ## 收集更多优秀样例
@@ -41,6 +41,7 @@ flutetr_note_book有许多flutter相关功能demo的集合，它能够帮助您�
 - [去掉点击事件的水波纹效果](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/without_splash_color)
 - [在当前页面上覆盖新的组件overlay](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/overlay)
 - [在不同页面传递事件EventBus](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/event_bus_demo)
+- [自定义 Navigator](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/navigator_example)
 
 
 #### 动画
